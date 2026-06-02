@@ -46,7 +46,3 @@ Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo constr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Estadísticas de GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MarcosFava&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFava&layout=compact)
