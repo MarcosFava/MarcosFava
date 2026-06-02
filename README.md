@@ -30,6 +30,7 @@ Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo constr
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
+| [events-api](https://github.com/MarcosFava/events-api) | API REST de eventos y tickets con caché, validación y tests. | Node, Express, TypeScript |
 | [ai-prompt-evals](https://github.com/MarcosFava/ai-prompt-evals) | Mini-framework para evaluar respuestas de LLMs con rúbricas y scorecard. | Python, pytest |
 | [md-to-pdf-cv](https://github.com/MarcosFava/md-to-pdf-cv) | Conversor de CV en Markdown a PDF compatible con ATS. | Python, reportlab |
 | [tic-tac-toe](https://github.com/MarcosFava/tic-tac-toe) | Ta-Te-Ti con IA imbatible (algoritmo minimax). | Python, pygame |
