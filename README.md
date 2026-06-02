@@ -1,19 +1,18 @@
 <!--
   Este es tu README de PERFIL de GitHub.
   Para que aparezca como portada de tu perfil, el repositorio en GitHub debe
-  llamarse EXACTAMENTE igual que tu usuario. Ej: si tu usuario es "marcosfava",
-  el repo debe ser "marcosfava". GitHub lo detecta solo y muestra este README
-  en https://github.com/marcosfava
-  Reemplazá los <placeholders> por tus datos reales.
+  llamarse EXACTAMENTE "MarcosFava" (igual que tu usuario). GitHub lo detecta
+  solo y muestra este README en https://github.com/MarcosFava
+  Falta solo completar el link de LinkedIn más abajo.
 -->
 
 # Hola, soy Marcos Fava 👋
 
 Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo construyendo aplicaciones con **Python** y **Angular**, y mejorando modelos de lenguaje evaluando y comparando sus respuestas.
 
-- 🌎 <Ciudad, País>
+- 🌎 La Plata, Buenos Aires, Argentina
 - 💼 Abierto a oportunidades como **Developer** y **AI Trainer**
-- 📫 Contacto: <correo@ejemplo.com>
+- 📫 Contacto: mar2fava@gmail.com
 - 🔗 LinkedIn: <https://linkedin.com/in/tu-usuario>
 
 ## Qué hago
@@ -32,10 +31,10 @@ Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo constr
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
-| [ai-prompt-evals](https://github.com/<usuario>/ai-prompt-evals) | Mini-framework para evaluar respuestas de LLMs con rúbricas y scorecard. | Python, pytest |
-| [md-to-pdf-cv](https://github.com/<usuario>/md-to-pdf-cv) | Conversor de CV en Markdown a PDF compatible con ATS. | Python, reportlab |
-| [tic-tac-toe](https://github.com/<usuario>/tic-tac-toe) | Ta-Te-Ti con IA imbatible (algoritmo minimax). | Python, pygame |
-| [gifs-app](https://github.com/<usuario>/gifs-app) | Buscador de GIFs con Angular consumiendo la API de Giphy. | Angular, TypeScript |
+| [ai-prompt-evals](https://github.com/MarcosFava/ai-prompt-evals) | Mini-framework para evaluar respuestas de LLMs con rúbricas y scorecard. | Python, pytest |
+| [md-to-pdf-cv](https://github.com/MarcosFava/md-to-pdf-cv) | Conversor de CV en Markdown a PDF compatible con ATS. | Python, reportlab |
+| [tic-tac-toe](https://github.com/MarcosFava/tic-tac-toe) | Ta-Te-Ti con IA imbatible (algoritmo minimax). | Python, pygame |
+| [gifs-app](https://github.com/MarcosFava/gifs-app) | Buscador de GIFs con Angular consumiendo la API de Giphy. | Angular, TypeScript |
 
 ## Stack
 
@@ -49,6 +48,5 @@ Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo constr
 
 ## Estadísticas de GitHub
 
-<!-- Reemplazá <usuario> por tu nombre de usuario de GitHub -->
-![Stats](https://github-readme-stats.vercel.app/api?username=<usuario>&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<usuario>&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=MarcosFava&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFava&layout=compact)
