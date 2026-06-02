@@ -5,7 +5,7 @@
   solo y muestra este README en https://github.com/MarcosFava
 -->
 
-# Hola, soy Marcos Fava 👋
+# Hola, soy Marcos Martínez Fava 👋
 
 Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo construyendo aplicaciones con **Python** y **Angular**, y mejorando modelos de lenguaje evaluando y comparando sus respuestas.
 
