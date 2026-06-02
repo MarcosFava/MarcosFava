@@ -3,17 +3,16 @@
   Para que aparezca como portada de tu perfil, el repositorio en GitHub debe
   llamarse EXACTAMENTE "MarcosFava" (igual que tu usuario). GitHub lo detecta
   solo y muestra este README en https://github.com/MarcosFava
-  Falta solo completar el link de LinkedIn más abajo.
 -->
 
-# Hola, soy Marcos Martínez Fava 👋
+# Hola, soy Marcos Fava 👋
 
 Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo construyendo aplicaciones con **Python** y **Angular**, y mejorando modelos de lenguaje evaluando y comparando sus respuestas.
 
 - 🌎 La Plata, Buenos Aires, Argentina
 - 💼 Abierto a oportunidades como **Developer** y **AI Trainer**
 - 📫 Contacto: mar2fava@gmail.com
-- 🔗 LinkedIn: <https://linkedin.com/in/tu-usuario>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcos-martínez-fava-0b91b023a/)
 
 ## Qué hago
 
@@ -45,4 +44,3 @@ Desarrollador y **entrenador de IA**. Estudiante de Informática, trabajo constr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
